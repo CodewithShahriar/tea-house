@@ -1,7 +1,7 @@
 # tea-house
 ![preview img](/tea-shop.jpg)
 
-- Tea House – free tea website template is designed with the latest web technologies like HTML5, CSS3, SASS, latest jQuery, and Bootstrap v5 framework. 
+## Tea House – free tea website template is designed with the latest web technologies like HTML5, CSS3, SASS, latest jQuery, and Bootstrap v5 framework. 
 
 ## Features of our free tea shop website template
 - Valid HTML5 and CSS3
